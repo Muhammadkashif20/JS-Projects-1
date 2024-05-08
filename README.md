@@ -1,2 +1,2 @@
 # JS-Projects-1
- This is JavaScript Counter Project
+ This is Js Counter Project 1
